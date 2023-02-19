@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ACS-1320-Tip-Calculator/static/css/main.d6b3d60e.css",
+    "main.js": "/ACS-1320-Tip-Calculator/static/js/main.5c7d1ac0.js",
+    "index.html": "/ACS-1320-Tip-Calculator/index.html",
+    "main.d6b3d60e.css.map": "/ACS-1320-Tip-Calculator/static/css/main.d6b3d60e.css.map",
+    "main.5c7d1ac0.js.map": "/ACS-1320-Tip-Calculator/static/js/main.5c7d1ac0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b3d60e.css",
+    "static/js/main.5c7d1ac0.js"
+  ]
+}
